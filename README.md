@@ -1,1 +1,1 @@
-# timer-app
+# Timer-app
